@@ -31,7 +31,7 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="" target="_blank" >
-<img src="./img/desktop-design.gif" width="575px"/>
+<img src="./img/landing-page.gif" width="575px"/>
 </a>
 
  <br />
