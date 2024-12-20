@@ -19,6 +19,7 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>JavaScript</li>
   <li>Bootstrap Icon</li>
   <li>ChatGPT [For Content]</li>
   <li>Google Font</li>
@@ -30,24 +31,26 @@
 
 <br>
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/215195565/PodSphere-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/landing-page.gif" width="575px"/>
 </a>
 
  <br />
 <span>Desktop Desgin ui-ux Layout</span><br/>
-<a href="" target="_blank" >
-<img src="./img/desktop-ui-ux.png" width="325px"/>
+<a href="https://www.behance.net/gallery/215195565/PodSphere-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/landing-page-ui-ux-layout.gif" width="325px"/>
+<img src="./img/landing-page-ui-ux-layout.png" width="325px"/>
 </a>
 
  <br />
 <span>Desktop Desgin</span><br/>
-<a href="" target="_blank" >
-<img src="./img/desktop-design.png" width="325px"/>
+<a href="https://www.behance.net/gallery/215195565/PodSphere-Social-Media-Campaign-Landing-Page" target="_blank" >
+<img src="./img/landing-page-s1.png" width="325px"/>
+<img src="./img/landing-page-s2.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/215195565/PodSphere-Social-Media-Campaign-Landing-Page" target="_blank" >
 <img src="./img/cover.png" width="575px"/>
 </a>
 
