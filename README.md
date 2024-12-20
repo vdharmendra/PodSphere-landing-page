@@ -38,8 +38,9 @@
  <br />
 <span>Desktop Desgin ui-ux Layout</span><br/>
 <a href="https://www.behance.net/gallery/215195565/PodSphere-Social-Media-Campaign-Landing-Page" target="_blank" >
-<br />
+
 <img src="./img/landing-page-ui-ux-layout.gif" width="325px"/>
+<br />
 <img src="./img/landing-page-ui-ux-layout.png" width="325px"/>
 </a>
 
